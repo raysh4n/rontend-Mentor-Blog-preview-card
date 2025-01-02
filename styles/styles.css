@@ -141,7 +141,7 @@ body {
 }
 
 .attribution {
-	outline: 1px solid red;
+	/* outline: 1px solid red; */
 	position: absolute;
 	bottom: 0;
 	width: 100%;

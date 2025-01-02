@@ -23,14 +23,16 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshot
+Mobile
+![](./Screenshot%202025-01-02%20at%2011-48-00%20Frontend%20Mentor%20Blog%20preview%20card%20mobile.png)
 
-![](./screenshot.jpg)
-
+Desktop
+![](./Screenshot%202025-01-02%20at%2011-48-23%20Frontend%20Mentor%20Blog%20preview%20card%20desktop.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-with-hover-and-focus-state-SnjCT9raXV)
+- Live Site URL: [Add live site URL here](https://blog-preview-card-raysh4n.netlify.app/)
 
 ## My process
 
