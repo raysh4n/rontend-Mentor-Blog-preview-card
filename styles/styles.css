@@ -73,11 +73,11 @@ body {
 	border-radius: 0.625rem; /* 10px */
 }
 
-.content {
+.card__content {
 	margin-block: 1.5rem;
 }
 
-.content__tag {
+.card__tag {
 	width: 4.5625rem; /* 73px */
 	height: 1.625rem; /* 26px */
 	border-radius: 0.25rem; /* 4px */
@@ -89,27 +89,27 @@ body {
 	margin-bottom: 0.75rem;
 }
 
-.content__published-date {
+.card__published-date {
 	color: var(--clr-gray950);
 	margin-block: 0.75rem;
 	font-size: 0.75rem; /* 12px */
 	font-weight: var(--font-weight-medium);
 }
 
-.content__title {
+.card__title {
 	margin-block: 0.75rem;
 	font-weight: var(--font-weight-heavy);
 	font-size: 1.25rem; /* 20px */
 }
 
-.content__title:hover,
-.content__title:focus {
+.card__title:hover,
+.card__title:focus {
 	color: var(--clr-yellow);
 	cursor: pointer;
 	outline: none; /*you can even remove the outline when on focus mode*/
 }
 
-.content__description {
+.card__description {
 	/* font-family: "Figtree-Italic"; */
 	color: var(--clr-gray500);
 	margin-block: 0.75rem;
